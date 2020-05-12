@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		Student s=new Student(10,"Amit Singh","8884411410");
 		System.out.println(s);
+		System.out.println("Amit");
 	}
 
 }
